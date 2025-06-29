@@ -8,11 +8,10 @@ A responsive Next.js 15‑powered web application that lets users browse, search
 
 1. [Features](#features)
 2. [Getting Started](#getting-started)
-3. [Folder Structure](#folder-structure)
-4. [Available Scripts](#available-scripts)
-5. [Tech Stack](#tech-stack)
-6. [Environment Variables](#environment-variables)
-7. [Deployment](#deployment)
+3. [Available Scripts](#available-scripts)
+4. [Tech Stack](#tech-stack)
+5. [Environment Variables](#environment-variables)
+6. [Deployment](#deployment)
 
 ---
 
@@ -81,6 +80,14 @@ A responsive Next.js 15‑powered web application that lets users browse, search
 ## Environment Variables
 
 This app does not require any private API keys—PokéAPI is public.
+
+---
+
+## Deployment
+
+1. Push to GitHub.
+2. Connect repo on Stackblitz.
+3. Open [https://stackblitz.com/~/github.com/Raman-Nagar/Pokemon-Searech-App](https://stackblitz.com/~/github.com/Raman-Nagar/Pokemon-Searech-App) in your browser. 
 
 ---
 
