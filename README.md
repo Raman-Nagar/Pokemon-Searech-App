@@ -77,6 +77,7 @@ A responsive Next.js 15‑powered web application that lets users browse, search
 ## Environment Variables
 
 This app does not require any private API keys—PokéAPI is public.
+API_BASE=https://pokeapi.co/api/v2
 
 ---
 
